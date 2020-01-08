@@ -1,0 +1,15 @@
+Package: openInCytoscapeButton
+Title: Button to open cytoscape.js networks in Cytoscape Desktop
+Version: 0.0.1
+Authors @R: as.person(c(Sophie Liu <sol015@ucsd.edu>))
+Description: Button to open cytoscape.js networks in Cytoscape Desktop
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: MIT + file LICENSE
+URL: https://github.com/ceofy/open-in-cytoscape-button
+BugReports: https://github.com/ceofy/open-in-cytoscape-button/issues
+Encoding: UTF-8
+LazyData: true
+Author: Sophie Liu [aut]
+Maintainer: Sophie Liu <sol015@ucsd.edu>

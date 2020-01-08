@@ -1,0 +1,7 @@
+include open_in_cytoscape_button/open_in_cytoscape_button.min.js
+include open_in_cytoscape_button/open_in_cytoscape_button.min.js.map
+include open_in_cytoscape_button/metadata.json
+include open_in_cytoscape_button/package-info.json
+include README.md
+include LICENSE
+include package.json
